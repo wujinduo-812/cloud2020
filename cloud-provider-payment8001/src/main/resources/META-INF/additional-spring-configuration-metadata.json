@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "eureka.client.server-url.default-url",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.server-url.default-url."
+  }
+] }
